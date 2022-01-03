@@ -1,0 +1,101 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+*{ margin:0; padding:0;}
+body{font-family:'Montserrat-Regular',Sans-Serif, Arial !important; transition:all 0.5s ease;-webkit-transition:all 0.5s ease;-moz-transition:all 0.5s ease;}
+body, html{height:100%;}
+img{max-width:100%}
+a{text-decoration:none}
+a:hover{text-decoration:underline}
+h1, h2, h3, h4, h5, h6{font-weight:normal;margin-top:10px;margin-bottom:10px}
+p{line-height: 150%;margin-bottom: 2em;}
+.container_full {width:960px; margin:0 auto;}
+.container {display:block }
+.fix{overflow:hidden;}
+.aligncenter{display:block;margin:0 auto;}
+.floatleft{float:left}
+.floatright{float:right}
+/*---------------------------*/
+
+body {
+    background: #fafafa;
+    color: #a7a7a7;
+}
+.section-padding{
+	padding:50px 0;
+}
+.section-title h2 {
+    color: #333;
+    font-weight: 600;
+}
+.section-title{
+    margin-bottom: 50px;
+	
+}
+.service-bg-1{
+	background-image:url(images/service-bg-1.jpg);
+}
+.service-bg-2{
+	background-image:url(images/service-bg-2.jpg);
+}
+.service-bg-3{
+	background-image:url(images/service-bg-3.jpg);
+}
+.service-bg-4{
+	background-image:url(images/service-bg-4.jpg);
+}
+.service-bg{
+	height: 250px;
+    background-position: center;
+    background-size: cover;
+    background-color: #ddd;
+}
+.service-content{
+	padding:20px 15px;
+}
+.service-content h3 {
+    color: #333;
+    font-size: 20px;
+    font-weight: 700;
+}
+.service-content p {
+    font-size: 12px;
+    line-height: 21px;
+}
+
+a.service-more-btn {
+    text-decoration: none;
+    color: #1caf50;
+    font-size: 12px;
+    font-weight: 600;
+    padding: 10px;
+	
+	transition:all .3s ease;
+	-o-transition:all .3s ease;
+	-ms-transition:all .3s ease;
+	-moz-transition:all .3s ease;
+	-webkit-transition:all .3s ease;
+}
+a.service-more-btn:hover {
+    background-color: #1caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 51px;
+}
+i.fa.fa-long-arrow-right {
+    padding-left: 5px;
+}
+.single-service-item{
+	background:#fff;
+	
+	transition:all .3s ease;
+	-o-transition:all .3s ease;
+	-ms-transition:all .3s ease;
+	-moz-transition:all .3s ease;
+	-webkit-transition:all .3s ease;
+}
+.single-service-item:hover {
+    box-shadow: 0 0 20px #ccf1cc;
+}
+
+
+
+

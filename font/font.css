@@ -1,0 +1,21 @@
+@font-face{
+	font-family:"Lato-Bold";
+	src:url("../font/Lato-Bold.eot") format("eot"),
+	url("../font/Lato-Bold.woff") format("woff"),
+	url("../font/Lato-Bold.ttf") format("truetype"),
+	url("../font/Lato-Bold.svg#Lato-Bold") format("svg");
+}
+@font-face{
+	font-family:"SolaimanLipi";
+	src:url("../font/SolaimanLipi.eot") format("eot"),
+	url("../font/SolaimanLipi.woff") format("woff"),
+	url("../font/SolaimanLipi.ttf") format("truetype"),
+	url("../font/SolaimanLipi.svg#Lato-Bold") format("svg");
+}
+@font-face{
+	font-family:"FontAwesome";
+	src:url("../font/FontAwesome.eot") format("eot"),
+	url("../font/FontAwesome.woff") format("woff"),
+	url("../font/FontAwesome.ttf") format("truetype"),
+	url("../font/FontAwesome.svg#FontAwesome") format("svg");
+}
